@@ -18,7 +18,7 @@ body {
   height: 20em;
 }
 .contenido__listadoNoticias_noticia-cuerpo p {
-  padding: 5px 10px;
+  padding: 4px 10px;
 }
 
 .aside__cabeceraListado {
@@ -76,12 +76,6 @@ body {
     width: 70vw;
   }
 
-  .contenido__listadoNoticias {
-    grid-template-rows: 1fr 1fr;
-    grid-gap: 0px;
-    align-items: stretch;
-  }
-
   .contenido__listadoNoticias_noticia-cuerpo {
     width: 100%;
   }
@@ -121,7 +115,6 @@ body {
 
 .menu__nav {
   display: inline-block;
-  text-align: right;
 }
 
 .menu__nav_ul {
