@@ -27,14 +27,6 @@
         width: 70vw;
     }
 
-    .contenido__listadoNoticias {
-        // display: grid; 
-        // grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 1fr 1fr;
-        grid-gap: 0px;
-        align-items: stretch;
-    }
-
     .contenido__listadoNoticias_noticia-cuerpo  {
         width:100%;
     
